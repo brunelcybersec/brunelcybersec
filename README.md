@@ -39,6 +39,7 @@ Welcome to the official GitHub of the **Brunel Cyber Security Society**. We're a
 | President | Mohammed Zuoriki |
 | Treasurer | Parmbir Singh Nandha |
 | Secretary | Abdirahman Abdikadir |
+| Web Officer | Kartik |
 
 ---
 
